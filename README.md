@@ -2,6 +2,6 @@
 
 To build:
 
-docker build -f Build.Dockerfile .
+docker build .
 
 
